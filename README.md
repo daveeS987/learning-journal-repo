@@ -10,7 +10,11 @@ Growth mindset is the belief that you can learn and pick up new skills regardles
 
 #### Reminders to stay in a Growth Mindset
 1. If I'm stuck on something, dont get frustrated and understand that I don't understand it **yet**. With more time, the knowledge and skill will come. 
-2. 
+2. Everyone is an amateur or clueless at some point in their life. No one starts out as an expert.
+3. If something doesn't seem to be working, try a different strategy or approach. Success will come. 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/daveeS987/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
