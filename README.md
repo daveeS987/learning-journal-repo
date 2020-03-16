@@ -4,6 +4,7 @@
 
 ### Growth Mindset
 
+Growth mindset is the belief that you can learn and pick up new skills.  
 
 
 You can use the [editor on GitHub](https://github.com/daveeS987/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
