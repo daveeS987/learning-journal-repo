@@ -1,2 +1,40 @@
+# Learning Markdown
 
-# add notes using markdown
+Headings
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
+
+
+<!-- lists unordered-->
+1. item 1
+1. item 2
+1. item 3
+
+
+<!-- List 
+
+<!-- images -->
+![]()
+
+<!-- links -->
+
+[Google](https://www.google.com)
+
+<!-- Blockquotes-->
+>"Some Random quote"
+
+<!-- inline code-->
+Inline `code` has `backticks` around it. 
+
+<!-- block code-->
+```
+function name (a,b) {
+  return a + b;
+}
+```
+
+Tables
