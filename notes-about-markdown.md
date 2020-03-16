@@ -11,7 +11,7 @@ What headings look like
 ###### heading 6
 
 # Bold 
-use **bold**
+use `**bold**`
 
 
 <!-- lists unordered-->
