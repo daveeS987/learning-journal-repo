@@ -131,4 +131,8 @@ Ordered lists
 -[ ] second unchecked box  
 -[x] third checked box  
 
+If task list item description begins with parenthesis, use `"/"` to escape it. 
+
+---------------------------------------------------
+
          
