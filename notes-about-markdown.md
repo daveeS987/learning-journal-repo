@@ -35,6 +35,7 @@ _Italic_
 ```
 
 ~~Strikethrough~~
+
 `~~Strikethrough~~`
 
 
