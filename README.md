@@ -19,6 +19,7 @@ In the words of Aristotle:
 
 ##### Contact Info
 Check out my [GitHub](https://github.com/daveeS987)
+
 :smile:
 
 
