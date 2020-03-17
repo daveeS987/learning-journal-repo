@@ -23,11 +23,20 @@
 ### Styling Text
 
 ```
-Bold ** ** or __ __
 **This is bold text**
 ```
 **BOLD**
+__BOLD__
 
+```
+*Italic* or _Italic_
+```
+*Italic*
+_Italic_
+
+
+
+---------------------------------------------------
 
 <!-- lists unordered-->
 1. item 1
