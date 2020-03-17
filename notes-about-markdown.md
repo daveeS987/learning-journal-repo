@@ -1,6 +1,6 @@
-## Learning Markdown
+# Learning Markdown
 
-### What headings look like:
+## What headings look like:
 
 ```
 # heading 1
@@ -20,7 +20,7 @@
 
 ---------------------------------------------------
 
-### Styling Text
+## Styling Text
 
 **BOLD** 
 ```
@@ -42,7 +42,9 @@ _Italic_
 
 `**Bold and _nested italic_**`
 
+***All bold and italic***
 
+`***All bold and italic***`
 
 ---------------------------------------------------
 
