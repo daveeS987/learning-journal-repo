@@ -47,6 +47,20 @@ _Italic_
 `***All bold and italic***`
 
 ---------------------------------------------------
+## Quoting Text
+
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
+```
+In the words of Abraham Lincoln:
+
+> Pardon my French
+```
+
+
+---------------------------------------------------
 
 <!-- lists unordered-->
 1. item 1
