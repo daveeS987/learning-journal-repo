@@ -127,8 +127,8 @@ Ordered lists
 -[x] third checked box
 ```
 
--[x] first checked box
--[ ] second unchecked box
--[x] third checked box
+-[x] first checked box  
+-[ ] second unchecked box  
+-[x] third checked box  
 
          
