@@ -1,6 +1,6 @@
 # Learning Markdown
 
-## What headings look like:
+## Headings:
 
 ```
 # heading 1
