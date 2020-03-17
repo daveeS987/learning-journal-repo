@@ -14,6 +14,9 @@ Hi my name is Davee. I've served in the US Army as an infantryman. After the mil
 2. Everyone is an amateur or clueless at some point in their life. No one starts out as an expert.
 3. If something doesn't seem to be working, try a different strategy or approach. Success will come. 
 
+In the words of Aristotle:
+> "We are what we repeatedly to. Excellence, then, is not an act, but a habit."
+
 ##### Contact Info
 Check out my [GitHub](https://github.com/daveeS987)
 :smile:
