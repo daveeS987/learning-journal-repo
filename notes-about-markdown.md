@@ -143,3 +143,15 @@ type `@'
 
 ---------------------------------------------------
 
+## Using emoji
+
+For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+---------------------------------------------------
+
+## Paragraphs
+
+Leave a blank line between lines of text
+
+
+
