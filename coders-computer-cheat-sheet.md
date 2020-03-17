@@ -5,7 +5,7 @@
 -A text editor is software that allows you to write and manage text to build a website. 
 
 
-**Important Features to Consider**  
+### Important Features to Consider
 -code completion  
 -syntax highlighting  
 -nice variety of themes(to reduce eyestrain and fatigue)  
