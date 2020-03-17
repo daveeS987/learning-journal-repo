@@ -59,6 +59,25 @@ In the words of Abraham Lincoln:
 > Pardon my French
 ```
 
+---------------------------------------------------
+
+## Quoting Code
+
+Within a sentence   
+Use Single Back Tick
+
+To make distinctive block  
+Use triple backticks
+
+---------------------------------------------------
+
+## Links
+
+You can wrap links with `[description](website address)`
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ---------------------------------------------------
 
