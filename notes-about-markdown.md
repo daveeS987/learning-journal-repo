@@ -1,6 +1,6 @@
-# Learning Markdown
+## Learning Markdown
 
-##### What headings look like:
+#### What headings look like:
 
 ```
 # heading 1
@@ -18,8 +18,13 @@
 ##### heading 5
 ###### heading 6
 
-# Bold 
-use `**bold**`
+#### Styling Text
+
+```
+Bold ** ** or __ __
+**This is bold text**
+```
+**BOLD**
 
 
 <!-- lists unordered-->
