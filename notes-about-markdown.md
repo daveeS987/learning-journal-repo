@@ -38,7 +38,9 @@ _Italic_
 
 `~~Strikethrough~~`
 
+**Bold and _nested italic_**
 
+`**Bold and _nested italic_**`
 
 
 
