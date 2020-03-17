@@ -116,4 +116,19 @@ Ordered lists
 1. First list item
    - First nested list item
      - Second nested list item
+     
+---------------------------------------------------
+
+## Task Lists
+
+```
+-[x] first checked box
+-[ ] second unchecked box
+-[x] third checked box
+```
+
+-[x] first checked box
+-[ ] second unchecked box
+-[x] third checked box
+
          
