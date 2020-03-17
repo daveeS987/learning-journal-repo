@@ -36,6 +36,8 @@ ls [options][locations] Square brackets means they're optional
 ls - l: long listing  
 ls /etc: When we do this it tells ls not to list our current directory but instead to list that directories contents.  
 ls -l /etc: We ran ls with both a command line option and argument. As such it did a long listing of the directory /etc.  
+cd - change directory. If you run the command cd without any arguments then it will always take you back to your home directory.
+   
 
 #### Paths
 Absolute and Relative
@@ -47,3 +49,15 @@ Relative paths specify a location (file or directory) in relation to where we cu
 - ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
 - . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
 - .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+
+
+#### More about files
+
+Everything is a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc  
+file [path]
+Linux is case sensitive  
+Becareful with spaces in names. Use quotes to fix spaces or a backslash to escape the space
+To hide files use a . period before the filename. Use ls -a to show hidden fiels and directories
+
+file : obtain information about what type of file a file or directory is.
+ls -a : List the contents of a directory, including hidden files.
