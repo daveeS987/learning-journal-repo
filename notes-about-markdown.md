@@ -135,4 +135,11 @@ If task list item description begins with parenthesis, use `"/"` to escape it.
 
 ---------------------------------------------------
 
-         
+## Mentioning people and teams
+
+type `@'
+
+@davees987
+
+---------------------------------------------------
+
