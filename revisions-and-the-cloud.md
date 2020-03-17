@@ -69,12 +69,46 @@ The local Git repository has three components:
 
 working directory > add > index > commit > head
 
+Local Repository struture
 ![local repository structure](https://www.udemy.com/blog/wp-content/uploads/2015/08/image036.png)
+
+Saving Changes
+All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
+Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.  
+Untracked files were not in the last snapshot and do not currently reside in the staging area.  
 
 The life cylce of File Status
 ![The life cycle of File Status](https://www.udemy.com/blog/wp-content/uploads/2015/08/image006.png)
 
+### Check File Status
+git status
 
+### Tracking and staging a  New File
+one file: use git add filename  
+all files: git add *
+
+### Commiting File
+git commit -m "message"
+
+### Commiting All Changes
+git commit -a
+
+### Pushing Changes
+git push origin master
+
+### Stashing Changes
+git stash: this command will temporarily remove changes and hides them giveing you a clean working directory
+git stash apply: will retrieve hidden changes
+
+### Remote Repositories
+To collab on Git projects, you must interact with remote repositories, versions of projects online or on a network
+
+Cloned Repositories - Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.
+
+### Seeing your Remotes
+
+git remote : can view the short names, such as “origin,” of all specified remote handles.
+git remote -v : you can view all the remote URLs next to their corresponding short names.
 
 
 
