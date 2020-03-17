@@ -20,5 +20,12 @@
 ### Third Party Options
 
 
+### Difference Between Text Editors and IDE's
+
+A text editor edits text, manages it, and manages files. 
+An IDE(Integrated Development Environment) is a suite of differetn software all coming together. An IDE is a text editor, a file
+manager, a compiler, and a debugger all in one software package.
+
+
 
 
