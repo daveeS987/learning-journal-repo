@@ -94,27 +94,13 @@ Unordered Lists
 - random 3
 
 Ordered lists
-
-<!-- List 
-
-<!-- images -->
-![]()
-
-<!-- links -->
-
-[Google](https://www.google.com)
-
-<!-- Blockquotes-->
->"Some Random quote"
-
-<!-- inline code-->
-Inline `code` has `backticks` around it. 
-
-<!-- block code-->
 ```
-function name (a,b) {
-  return a + b;
-}
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
 ```
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
 
-Tables
+
