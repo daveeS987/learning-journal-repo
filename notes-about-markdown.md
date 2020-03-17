@@ -81,11 +81,19 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ---------------------------------------------------
 
-<!-- lists unordered-->
-1. item 1
-1. item 2
-1. item 3
+## Lists
 
+Unordered Lists
+```
+- random 1
+- random 2
+- random 3
+```
+- random 1
+- random 2
+- random 3
+
+Ordered lists
 
 <!-- List 
 
