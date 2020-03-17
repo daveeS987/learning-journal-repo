@@ -93,6 +93,17 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ---------------------------------------------------
 
+## Images
+
+Embedding images: 
+
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+---------------------------------------------------
+
 ## Lists
 
 Unordered Lists
