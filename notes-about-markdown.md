@@ -23,18 +23,21 @@
 ### Styling Text
 
 **BOLD** 
-__BOLD__
 ```
 **Bold**
 __BOLD__
 ```
 
+*Italic*
 ```
 *Italic*
 _Italic_
 ```
-*Italic*
-_Italic_
+
+~~Strikethrough~~
+`~~Strikethrough~~`
+
+
 
 
 
