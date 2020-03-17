@@ -22,14 +22,16 @@
 
 ### Styling Text
 
-```
-**This is bold text**
-```
-**BOLD**
+**BOLD** 
 __BOLD__
+```
+**Bold**
+__BOLD__
+```
 
 ```
-*Italic* or _Italic_
+*Italic*
+_Italic_
 ```
 *Italic*
 _Italic_
