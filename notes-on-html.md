@@ -47,10 +47,10 @@ meta: information about your page
 Doctypes tell browsers which version of html you are using  
 
 
-nesting child elements
+**Nesting child elements**
 article*3>img>h3>p
 
-adding child elements
+**Adding child elements**
 article*3>img+h3+p
 
 semantics tags - tags with a purpose
