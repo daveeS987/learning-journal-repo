@@ -18,15 +18,24 @@ consistency headings
 - Design navigation  
 concise - clear - selective - context - ineractive - consistent
 
+HTML are text documents  
+HTML uses tags or also referred to as elements.   
+Tags comes in pairs  
+Opening tags carry attributes which tells us more about the content  
+Attributes require name and value  
 
-HTML are text documents
-HTML uses tags or also referred to as elements. 
-Tags comes in pairs
-Opening tags carry attributes which tells us more about the content
-Attributes require name and value
+### Common Tags
+- header
+- nav
+- article
+- aside
+- footer
+- section
+- h groups
+- figure and figcaption
+- div
+- a 
 
-
-HTML Layout
 
 
 
