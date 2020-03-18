@@ -14,12 +14,13 @@
 
 ### Anytime we make change
 
-git status
-git add (file name to be added)
-git status
-git commit -m "include a message" 
-git status
-git push origin master
+
+git status  
+git add (file name to be added)  
+git status  
+git commit -m "include a message"   
+git status  
+git push origin master  
 
 
 ## Cloning
