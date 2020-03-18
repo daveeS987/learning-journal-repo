@@ -36,6 +36,13 @@ Attributes require name and value
 - div
 - a 
 
+`<!-- -->` These are comments
 
-
+Block level elements: h1, p, ul, li  
+inline elements: a, b, em, img  
+grouping text & elements in a block: div  
+grouping text & elements inline: span  
+iframe  
+meta: information about your page  
+Doctypes tell browsers which version of html you are using  
 
