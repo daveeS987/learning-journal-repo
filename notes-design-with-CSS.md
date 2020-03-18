@@ -26,3 +26,5 @@ CSS rules usually appear in a separate document
 - alpha - expressed as number between 0 and 1.0. Represents transparency
 
 
+
+article*3>img>h3>p
