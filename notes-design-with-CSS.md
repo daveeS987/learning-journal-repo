@@ -42,7 +42,7 @@ Ruleset:
 
 ### CSS Color
 
-
+Colors can be specified using colornames, hex codes, RGB, HSL.
 
 **hsla**
 - Hue - the colloquial idea of color
