@@ -12,18 +12,11 @@ committed - data is stored in a local database
 modified - file has been changed but not commited to database
 staged - flagged a file's changed version to be commited in the next snapshot
 
-git status
-git add Readme
-git status
-git commit -m
-git status
-git push origin master
-git status
 
 anytime we make change
 
 git status
-git add Readme.md
+git add 
 git status
 git commit -m "include a message" 
 git status
