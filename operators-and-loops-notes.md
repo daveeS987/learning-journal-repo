@@ -1,6 +1,6 @@
 ## Operators and Loops
 
-###Comparison Operators
+### Comparison Operators
 
 ```
 == : is equal to
@@ -15,7 +15,7 @@
 
 - Strict equals will compare two values and data type. Equal will only compare value
 
-###Logical Operators
+### Logical Operators
 
 - Logical operators will let you compare the results of more than one comparison operator
 
