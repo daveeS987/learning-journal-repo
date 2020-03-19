@@ -45,9 +45,9 @@ Ruleset:
 Colors can be specified using colornames, hex codes, RGB, HSL.
 
 **hsla**
-- Hue - the colloquial idea of color
-- saturation - amount of gray in color. maximimu saturation there is no gray. minimum saturation means its mostly gray
-- brightness - how much black is in a color. maximum brightness means no black in color. minimum means color woudl be very dark
+- Hue - the colloquial idea of color. 
+- saturation - amount of gray in color. maximimu saturation there is no gray. minimum saturation means its mostly gray. percentage
+- brightness - how much black is in a color. maximum brightness means no black in color. minimum means color woudl be very dark. percentage
 - lightness - amount of white or black in a color. sometimes refered to as luminosity. 0 lightness is black. 100% lightness is white. and 50% is normal. 
 - alpha - expressed as number between 0 and 1.0. Represents transparency
 
